@@ -1,0 +1,14 @@
+# Documentos que no se publican.
+#
+# guia-defensa-sesion: apuntes internos para responder al jurado. El propio
+# documento dice que vive solo en local.
+guia-defensa-sesion.md
+
+# Catalogos de herramientas del entorno de trabajo local: incluyen rutas de la
+# maquina de un integrante y no son documentacion del proyecto.
+SKILLS-DISPONIBLES.md
+SKILLS-CATALOGO.md
+
+# Utilidad local: copia docs/ al vault de Obsidian, que no existe fuera de la
+# maquina de trabajo.
+_sync/
