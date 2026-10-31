@@ -12,3 +12,14 @@ SKILLS-CATALOGO.md
 # Utilidad local: copia docs/ al vault de Obsidian, que no existe fuera de la
 # maquina de trabajo.
 _sync/
+
+# Indice del vault de Obsidian: usa enlaces [[wiki]] que GitHub no resuelve y
+# apunta a notas que no estan aqui. Este repositorio tiene su propio README.
+INDEX.md
+
+# Guia de redaccion interna del equipo.
+NO-IA-GUIA.md
+
+# Copia antigua de la guia SCRUM, con el calendario que terminaba el 3 de
+# octubre y los roles sin asignar. La vigente es scrum/README.md.
+scrum-README.md
